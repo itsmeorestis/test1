@@ -21,6 +21,28 @@ http://185.204.32.4:9981/stream/channelid/1606000651
 http://185.204.32.4:9981/stream/channelid/845796780
 #EXTINF:-1 group-title="SHQIP" tvg-name="RTSH 3" ,RTSH 3
 http://185.204.32.4:9981/stream/channelid/1718846587
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH 24 HD" ,RTSH 24 HD
+http://185.204.32.4:9981/stream/channelid/868261949
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH FILM" ,RTSH FILM
+http://185.204.32.4:9981/stream/channelid/1699140733
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH SHQIP" ,RTSH SHQIP
+http://185.204.32.4:9981/stream/channelid/847076243
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH FEMIJE" ,RTSH FEMIJE
+http://185.204.32.4:9981/stream/channelid/81074854
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH SHKODRA" ,RTSH SHKODRA
+http://185.204.32.4:9981/stream/channelid/378267982
+#EXTINF:-1 group-title="SHQIP" tvg-name=" RTSH SHKOLLA HD" ,RTSH SHKOLLA HD
+http://185.204.32.4:9981/stream/channelid/902478398
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH SPORT HD" ,RTSH SPORT HD
+http://185.204.32.4:9981/stream/channelid/1261192802
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH MUZIKE" ,RTSH MUZIKE
+http://185.204.32.4:9981/stream/channelid/1799910036
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH AGRO" ,RTSH AGRO
+http://185.204.32.4:9981/stream/channelid/944434146
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH AGRO" ,RTSH PLUS
+http://185.204.32.4:9981/stream/channelid/914839179
+#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH KUVEND" ,RTSH KUVEND
+http://185.204.32.4:9981/stream/channelid/611573695
 #EXTINF:-1 group-title="SHQIP" tvg-name="KLAN PLUS HD" ,KLAN PLUS HD
 http://185.204.32.4:9981/stream/channelid/1280613217
 #EXTINF:-1 group-title="SHQIP" tvg-name="ABC HD" ,ABC HD
@@ -29,18 +51,8 @@ http://185.204.32.4:9981/stream/channelid/1489072505
 http://185.204.32.4:9981/stream/channelid/1364860311
 #EXTINF:-1 group-title="SHQIP" tvg-name="A2 CNN" ,A2 CNN
 http://185.204.32.4:9981/stream/channelid/107779299
-#EXTINF:-1 group-title="SHQIP" tvg-name="EURONEWS ALBANIA HD" ,EURONEWS ALBANIA HD
-http://185.204.32.4:9981/stream/channelid/380882876
-#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH SPORT HD" ,RTSH SPORT HD
-http://185.204.32.4:9981/stream/channelid/1261192802
-#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH 24 HD" ,RTSH 24 HD
-http://185.204.32.4:9981/stream/channelid/868261949
-#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH FILM" ,RTSH FILM
-http://185.204.32.4:9981/stream/channelid/1699140733
-#EXTINF:-1 group-title="SHQIP" tvg-name="RTSH SHKODRA" ,RTSH SHKODRA
-http://185.204.32.4:9981/stream/channelid/378267982
-#EXTINF:-1 group-title="SHQIP" tvg-name="RAI 1" ,RAI 1
-http://185.204.32.4:9981/stream/channelid/207836835
+#EXTINF:-1 group-title="SHQIP" tvg-name="ALBUK HD" ,ALBUK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
