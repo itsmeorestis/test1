@@ -45,7 +45,7 @@ http://185.204.32.4:9981/stream/channelid/914839179
 http://185.204.32.4:9981/stream/channelid/611573695
 #EXTINF:-1 group-title="SHQIP" tvg-name="KLAN PLUS HD" ,KLAN PLUS HD
 http://185.204.32.4:9981/stream/channelid/1280613217
-#EXTINF:-1 group-title="SHQIP" tvg-name="ABC HD" ,ABC HD
+#EXTINF:-1 group-title="SHQIP" tvg-name="ABC HD" ,ABC ALB HD
 http://185.204.32.4:9981/stream/channelid/1489072505
 #EXTINF:-1 group-title="SHQIP" tvg-name="KLAN NEWS" ,KLAN NEWS
 http://185.204.32.4:9981/stream/channelid/1364860311
@@ -53,6 +53,46 @@ http://185.204.32.4:9981/stream/channelid/1364860311
 http://185.204.32.4:9981/stream/channelid/107779299
 #EXTINF:-1 group-title="SHQIP" tvg-name="ALBUK HD" ,ALBUK HD
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="ABC NEWS HD" ,ABC NEWS HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="ABC NEWS NEW YORK" ,ABC NEWS NEW YORK
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="CBS NEWS" ,CBS NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="NBC NEWS NOW HD" ,NBC NEWS NOW HD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="FAILARMY TV" ,FAILARMY TV
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="FAILARMY INTERNATIONAL TV" ,FAILARMY INTERNATIONAL TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="FIGHT SPORTS" ,FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="FILM HUB" ,FILM HUB
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="FOX NEWS" ,FOX NEWS
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="FOX NEWS NOW" ,FOX NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="GLORY KICKBOXING" ,GLORY KICKBOXING
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="GLOBAL GOT TALENT" ,GLOBAL GOT TALENT
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="NBC RACING TV" ,NBC RACING TV
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="HISTORY EAST" ,HISTORY EAST
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="HUNT CHANNEL HD" ,HUNT CHANNEL HD
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="PLUTO TV CRIME INVESTIGATIONS HD" ,PLUTO TV CRIME INVESTIGATIONS HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="STIRR WIPEOUT XTRA" ,STIRR WIPEOUT XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="STIRR CHARGE!" ,STIRR CHARGE!
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="STADIUM" ,STADIUM
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-name="WEATHERNATION" ,WEATHERNATION
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
