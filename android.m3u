@@ -569,12 +569,7 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOgiAYAOAHagwJ%2f8ALLyw7rNpcFpXceYAKlU4Tq%2fnwfV%2beWbKvbfpdiangcHqOGdAdlvFdrZUQm7RNHronbcIOGS5cpuO7iaPUHEXXv%2bWUt3UnV427XaSKPrdzyTu1PkdhOBg3KS%2b5sxU6%2bvLH6cAZYR5oivKCa%2bRXiqGAAiBgEBAGnvYCGBbsCQT%2fCjymvDk0UWz9vtwnxQKX29nVLkeNe8yNeZmqDv9Wo8BquwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="ext" group-title="ALB: ISLAM",ALB: ISLAM CHANNEL QURAN HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwd0SQkAYANAHaow1u9tnL1xINYqJpdXoDrXGT3%2fCxnj4zgH9NTXX7yjHgDwbxhP7k36Swq2oH6sX2P2cgOPwY%2blG0yC6h%2bFg4ffQhSl7Q7YthribJ8%2f46fH5nRFelNXDI8qylsjMwmuU34fnjfUoyBcTDEBUYi3LTamR2x00hinVKFBmAEUSMbq0crCbveOudT7Xhw0mq9PFrYUSbRWZAVJi%2fcVn5W%2f4rrD%2bJOUB9LsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-id="ext" group-title="ALB: ISLAM",ALB: MEDINE LIVE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwWETgTAYAOAf1O1s1WvrQx9EKiI02vm21BSrI3Rx%2fXjPE0T1NwPCp0ZnzruYNHFsZ%2bmZev1ieKbBxz9qseuVfN5lGSUiu%2fJ6G1jCtCtdbH1uMPlo196gmYOPURdh09DJYe%2b6YzNj8hYQtfGRXYrlZmSUUAzKQjJnCtlFSZFjASCg4BAKWGEHRq1TE8LX720kopKzR%2btVvEnIqZ2c%2fPTX53mNebYaVlZ4cf9nYEdLuwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-id="ext" group-title="ALB: ISLAM",ALB: MEKKE LIVE HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPYiwVEX3wIctL0LB0bNYbaFa4MO3mnB%2ffOQdWM7ZXrL1J%2burPYC3B%2fnoZwOhF5xviXpYeRX7HU1fMKik4tWrDKmrHz3hTidFEY1pGPTPq6XZvZ5tqZ%2fX5Nr8wXE7srnOjpFNCbRR9LD6xiYVbBKXyW%2bg2FwIDhDHEBAc2wVZrBXhhYJtnnltsOJnoLh4SJB5pI7SNXsIDVS35rEHZ9Dw5hn%2fhxWUUuwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="USA" tvg-name="ABC NEWS HD" ,ABC NEWS HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+
 #EXTINF:-1 group-title="USA" tvg-name="ABC NEWS NEW YORK" ,ABC NEWS NEW YORK
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 group-title="USA" tvg-name="CBS NEWS" ,CBS NEWS
